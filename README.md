@@ -1,14 +1,17 @@
-### Prazer! Meu nome é João, mas pode me chamar de Breder.
-
-- 💻 Trabalho com front-end e back-end
-- 📚 Estudando Javascript e React
+# João Breder
 
 <div>
   <a href="https://github.com/JoaoBreder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoBreder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-##
+### Prazer! Meu nome é João, mas pode me chamar de Breder.
+
+- Trabalho com front-end e back-end
+- Estudando Javascript e React
+- Apaixonado por Jogos, RPG, Rock, Livros e HQ's
+  
+# Sobre Mim
   
 ### Linguagens que já trabalhei:
 <div style="display: inline_block"><br>
@@ -21,10 +24,7 @@
   
 ### Meus Links:
 <div>
-  <a href="https://instagram.com/flamereaper_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/flamereaper_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaobreder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-guilherme-breder-5a40991a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/JoaoBreder/JoaoBreder/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://instagram.com/flamereaper_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" width="40" height="30"></a>
+  <a href="https://www.linkedin.com/in/joão-guilherme-breder-5a40991a3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank" width="40" height="30"></a> 
+  <a href = "mailto:joaobreder@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" target="_blank" width="40" height="30"></a>
 </div>
