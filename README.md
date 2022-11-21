@@ -8,12 +8,12 @@
 ### Prazer! Meu nome é João, mas pode me chamar de Breder.
 
 - Trabalho com front-end e back-end
-- Estudando Javascript e React
+- 1 ano de experiência com Nodejs e React
 - Apaixonado por Jogos, RPG, Rock, Livros e HQ's
   
 # Sobre Mim
   
-### Linguagens que já trabalhei:
+### Linguagens que já trabalhei/estudei:
 <div style="display: inline_block"><br>
   <img align="center" alt="Breder-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breder-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
